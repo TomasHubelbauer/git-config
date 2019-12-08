@@ -1,5 +1,7 @@
 # Git configuration
 
+[**WEB**](https://tomashubelbauer.github.io/git-config)
+
 My preferred Git configuration.
 
 ```
