@@ -17,3 +17,5 @@ that with that error instead of getting a merge commit which I would have to und
 I (or my IDE) am actually doing `git pull --rebase` so this is for when I zone out while using the CLI to pull.
 
 I am not sure if `merge.ff` is redundant here or not so I put it in just in case because it is faster than testing it.
+
+## To-Do
